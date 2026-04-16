@@ -5,7 +5,7 @@ float convert(float celsius) {
     return (celsius *9/5) + 32;
 }
 int main() {
-    float celcius = 34;
+    float celcius = 35;
     float fehrinhiet;
 
     fehrinhiet = convert(celcius);
