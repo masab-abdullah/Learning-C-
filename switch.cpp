@@ -7,6 +7,7 @@ int fun( int x )
     {
     case 0: return x / 2;
     case 1: return x * 2;
+    
     }
     return 0;
 }
