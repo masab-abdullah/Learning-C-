@@ -13,7 +13,7 @@ int main() {
         cout << "4. devide\n";
         cout <<  "5. exit\n";
         
-        cout << "enter a number \n";
+        cout << "enter your choice \n";
         cin >> choice;
 if(choice == 5) {
     cout << "code exited\n";
