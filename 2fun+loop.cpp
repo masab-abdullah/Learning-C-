@@ -10,7 +10,7 @@ int main()
 {
     int a = 3;
 
-    for(int i = 1; i <= 3; i++)
+    for(int i = 1; i <= -1; i++)
     {
         a = add(a);
         cout << a << " ";
